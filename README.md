@@ -10,7 +10,7 @@ dit is mij test repository.
 - item 2
 - item 3
 
-## Nog geen subtitel
+## Nog een subtitel
 
   - item
 
